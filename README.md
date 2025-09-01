@@ -56,7 +56,5 @@ To synthesize a previously generated narrative into a scripted “deep fake” i
   - Coaching recommendations
 - Script lines located in `script_lines.txt` and `script_lines.py`
 
----
 
-## 📁 Repository Structure
 
